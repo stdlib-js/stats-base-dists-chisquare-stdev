@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-19)
+
+<section class="features">
+
+### Features
+
+-   [`3f740e8`](https://github.com/stdlib-js/stdlib/commit/3f740e88f3d1e0a42e50e351603a0d4eb0e9cf2e) - add C implementation for `stats/base/dists/chisquare/stdev` [(#3996)](https://github.com/stdlib-js/stdlib/pull/3996)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3511](https://github.com/stdlib-js/stdlib/issues/3511)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3f740e8`](https://github.com/stdlib-js/stdlib/commit/3f740e88f3d1e0a42e50e351603a0d4eb0e9cf2e) - **feat:** add C implementation for `stats/base/dists/chisquare/stdev` [(#3996)](https://github.com/stdlib-js/stdlib/pull/3996) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek Maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
