@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-19)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
+-   [`02b9077`](https://github.com/stdlib-js/stdlib/commit/02b907765ad6a6ebcc884f16f2128475ab866814) - **bench:** refactor random number generation in `stats/base/dists/chisquare` [(#4860)](https://github.com/stdlib-js/stdlib/pull/4860) _(by Karan Anand)_
 -   [`3f740e8`](https://github.com/stdlib-js/stdlib/commit/3f740e88f3d1e0a42e50e351603a0d4eb0e9cf2e) - **feat:** add C implementation for `stats/base/dists/chisquare/stdev` [(#3996)](https://github.com/stdlib-js/stdlib/pull/3996) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -46,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 -   Vivek Maurya
 
